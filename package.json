@@ -1,0 +1,11 @@
+{
+  "name": "@my-org/server",
+  "version": "1.0.0",
+  "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "1.5.0"
+  }
+}
